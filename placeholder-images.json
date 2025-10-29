@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "case-study-1",
+      "description": "Image for the first case study about predictive maintenance.",
+      "imageUrl": "/case-study-predictive-maintenance.png",
+      "imageHint": "factory machine"
+    },
+    {
+      "id": "case-study-2",
+      "description": "Image for the second case study about customer churn prediction.",
+      "imageUrl": "https://images.unsplash.com/photo-1728044849277-9cb3cd94e729?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyZXRhaWwlMjBhbmFseXRpY3N8ZW58MHx8fHwxNzYxMzgwMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "retail analytics"
+    },
+    {
+      "id": "case-study-logistics",
+      "description": "Image for the case study about logistics optimization.",
+      "imageUrl": "/case-study-logistics.png",
+      "imageHint": "warehouse package"
+    },
+    {
+      "id": "case-study-chatbot",
+      "description": "Image for the case study about a customer support chatbot.",
+      "imageUrl": "/case-study-chatbot.png",
+      "imageHint": "chatbot interface"
+    },
+    {
+      "id": "case-study-sales",
+      "description": "Image for the case study about sales prediction.",
+      "imageUrl": "/case-study-sales.png",
+      "imageHint": "sales dashboard"
+    },
+    {
+      "id": "about-team",
+      "description": "Image representing the team.",
+      "imageUrl": "https://images.unsplash.com/photo-1573496130141-209d200cebd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9mZXNzaW9uYWwlMjB0ZWFtfGVufDB8fHx8MTc2MTM2NDY2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional team"
+    },
+    {
+      "id": "contact-hero",
+      "description": "Hero image for the contact page.",
+      "imageUrl": "https://images.unsplash.com/photo-1635828664479-1a9cf6311a2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGNvbW11bmljYXRpb258ZW58MHx8fHwxNzYxMzgwMjgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract communication"
+    },
+    {
+      "id": "hero-background",
+      "description": "A high-quality image showing an abstract representation of AI and business synergy.",
+      "imageUrl": "/hero-background.png",
+      "imageHint": "abstract AI"
+    }
+  ]
+}
